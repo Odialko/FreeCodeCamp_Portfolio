@@ -209,9 +209,15 @@ a{
     color: #A9BCF5;
 }
 .textColorForCV{
-    color: #5F9EA0;
+    color: #42A5F5;
 }
 .maskFon {
     background-color:rgba(0,0,0,.3);
 
+}
+/*
+висота екрана браузера
+*/
+.hei {
+    height: 100vh; /* 100vh - 100% от высоты viewport(окна браузера) */
 }
